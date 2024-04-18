@@ -26,9 +26,3 @@ guerreiro.atacar(monge)
 monge.atacar(ninja)
 ninja.atacar(mago)
 
-
-
-mago.atacar(guerreiro)
-guerreiro.atacar(monge)
-monge.atacar(ninja)
-ninja.atacar(mago)
